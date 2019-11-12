@@ -15,5 +15,13 @@
         android:id="@+id/navigation_notifications"
         android:icon="@drawable/ic_local_hospital_black_24dp"
         android:title="@string/title_medicine" />
+    <item
+        android:id="@+id/navigation_bills"
+        android:icon="@drawable/ic_payment_black_24dp"
+        android:title="@string/title_bills" />
 
+    <item
+        android:id="@+id/navigation_shopping"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        android:title="@string/title_shopping" />
 </menu>
