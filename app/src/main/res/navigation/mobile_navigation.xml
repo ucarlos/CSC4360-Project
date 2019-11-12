@@ -15,23 +15,23 @@
         android:id="@+id/navigation_dashboard"
         android:name="com.example.csc4360_project.ui.dashboard.DashboardFragment"
         android:label="@string/title_fitness"
-        tools:layout="@layout/fragment_fitness" />
+        tools:layout="@layout/fragment_dashboard" />
 
     <fragment
         android:id="@+id/navigation_notifications"
         android:name="com.example.csc4360_project.ui.notifications.NotificationsFragment"
-        android:label="@string/med"
-        tools:layout="@layout/fragment_medicine" />
+        android:label="@string/title_medicine"
+        tools:layout="@layout/fragment_notifications" />
 
     <fragment
         android:id="@+id/navigation_bills"
         android:name="com.example.csc4360_project.ui.bills.BillFragment"
         android:label="@string/title_bills"
-        tools:layout="@layout/fragment_bill" />
+        tools:layout="@layout/bill_fragment" />
 
     <fragment
         android:id="@+id/navigation_shopping"
         android:name="com.example.csc4360_project.ui.shopping.ShoppingFragment"
         android:label="@string/title_shopping"
-        tools:layout="@layout/fragment_shopping" />
+        tools:layout="@layout/shopping_fragment" />
 </navigation>
