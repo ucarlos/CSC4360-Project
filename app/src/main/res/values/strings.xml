@@ -1,8 +1,31 @@
 <resources>
     <string name="app_name">CSC4360-Project</string>
+
+    <!-- Navigation Bar Strings: !-->
     <string name="title_home">Home</string>
     <string name="title_fitness">Fitness</string>
     <string name="title_medicine">Medicine</string>
     <string name="title_bills">Bills</string>
     <string name="title_shopping">Shopping</string>
+
+    <!-- Fragment Title Strings: !-->
+
+
+    <!-- Home Fragment !-->
+    <string name="greeting">Hello </string>
+
+    <!-- Fitness Fragment !-->
+    <string name="add_fitness_activity">Add Activity</string>
+
+    <!-- Medicine Fragment !-->
+    <string name="med">Medication</string>
+    <string name="add_medicine">Add Medicine</string>
+
+
+    <!-- Payment Fragment !-->
+    <string name="add_bill">Create Bill</string>
+
+
+    <!-- Shopping Fragment !-->
+    <string name="add_shopping_item">Add to Shopping Cart</string>
 </resources>
