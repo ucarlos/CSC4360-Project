@@ -1,14 +1,14 @@
 # CSC4360 Team 9 Project : Reminder App for the Elderly
 
-## Problem Statement
+### Problem Statement
 
 
-## Home Activity
+### Home Activity
 
-## Fitness Activity
+### Fitness Activity
 
-## Medicine Activity
+### Medicine Activity
 
-## Bill Activity
+### Bill Activity
 
-## Shopping Activity
+### Shopping Activity
