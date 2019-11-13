@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="51dp"
         android:layout_marginBottom="613dp"
-        android:text="Add Notification"
+        android:text="@string/add_medicine"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
