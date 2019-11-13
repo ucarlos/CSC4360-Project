@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CSC4360 Team 9 Project : Reminder App for the Elderly
 
 ### Problem Statement
@@ -13,4 +13,3 @@
 ### Bill Activity
 
 ### Shopping Activity
->>>>>>> origin/master
