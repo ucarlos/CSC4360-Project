@@ -19,7 +19,7 @@
 
     <fragment
         android:id="@+id/navigation_notifications"
-        android:name="com.example.csc4360_project.ui.notifications.NotificationsFragment"
+        android:name="com.example.csc4360_project.ui.notifications.MedicineFragment"
         android:label="@string/med"
         tools:layout="@layout/fragment_medicine" />
 

@@ -1,5 +1,6 @@
 package com.example.csc4360_project.ui.dashboard;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -13,6 +14,7 @@ import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProviders;
 
 import com.example.csc4360_project.R;
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 public class DashboardFragment extends Fragment {
 
@@ -30,6 +32,12 @@ public class DashboardFragment extends Fragment {
                 textView.setText(s);
             }
         });
+
+        FloatingActionButton form_button = root.findViewById(R.id.fitness_form_button);
+        form_button.setOnClickListener((view) ->{
+            startActivity(new Intent(getActivity(), FitnessForm.class));
+        });
+
         return root;
     }
 }
